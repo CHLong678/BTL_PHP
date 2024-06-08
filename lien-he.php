@@ -29,7 +29,7 @@
                                 <i class="fas fa-map-marker-alt"></i>
                             </div>
                             <div class="contact-info-text">
-                                <p><span>Địa chỉ:</span> Ngõ 58, Dịch Vọng Hậu, Cầu Giấy, Hà Nội</p>
+                                <p><span>Địa chỉ:</span> Trường Đại học Công nghiệp Hà Nội</p>
                             </div>
                         </div>
                         <div class="address">
@@ -45,7 +45,7 @@
                                 <i class="fas fa-mobile-alt"></i>
                             </div>
                             <div class="contact-info-text">
-                                <p><span>Số Điện Thoại:</span> 0988.888.999 </p>
+                                <p><span>Số Điện Thoại:</span> 0812.399.932 </p>
                             </div>
                         </div>
                     </div>

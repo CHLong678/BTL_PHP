@@ -7,9 +7,10 @@
                         <img src="image/logo--footer.png" alt="">
                     </div>
                     <div class="footer-contact">
-                        <p><span class="label">Địa Chỉ:</span><span class="text">Đại học công nghiệp Hà Nội</span></p>
+                        <p><span class="label">Địa Chỉ:</span><span class="text">Trường Đại học Công nghiệp Hà
+                                Nội</span></p>
                         <p><span class="label">Số Điện Thoại:</span><span class="text">0812.399.932</span></p>
-                        <p><span class="label">Email:</span><span class="text">bansach.com</span></p>
+                        <p><span class="label">Email:</span><span class="text">hotro@pustok.com</span></p>
                     </div>
                 </div>
             </div>

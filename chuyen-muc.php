@@ -6,11 +6,9 @@ require_once ('./database/query.php');
 // Lấy giá trị id của chuyên mục từ URL
 $id = $_GET['id'];
 
-// Truy vấn để lấy các sản phẩm thuộc chuyên mục
 $sql_sanpham = "SELECT * FROM sanpham WHERE machuyenmuc = '$id'";
 $sanpham = queryResult($conn, $sql_sanpham);
 
-// Truy vấn để lấy tên chuyên mục
 $sql_chuyenmuc = "SELECT tenchuyenmuc FROM chuyenmuc WHERE machuyenmuc = '$id'";
 $chuyenmuc = queryResult($conn, $sql_chuyenmuc);
 
